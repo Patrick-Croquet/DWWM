@@ -16,3 +16,8 @@ img {
     width: 50%;
     height: auto;
 }
+
+.fh5co-cover {
+    background-size: cover;
+    position: relative;
+}
